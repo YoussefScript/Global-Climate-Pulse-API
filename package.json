@@ -2,7 +2,7 @@
   "name": "climate-change-api",
   "version": "1.0.0",
   "description": "",
-  "license": "UNLICENSED",
+  "license": "./LICENSE",
   "author": "YoussefScript",
   "type": "commonjs",
   "main": "index.js",
